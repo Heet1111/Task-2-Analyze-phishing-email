@@ -1,0 +1,31 @@
+**Subject:** *Your Microsoft Account Password Has Been Reset – Confirm Immediately*
+
+**From:** *Microsoft Support security-alert@microsoft-verificationcenter.com*
+
+**To:** you@example.com
+
+**Date:** Tue, 9 Dec 2025 18:22:14 +0530
+
+> Hello User,
+> 
+> 
+> We have detected an unauthorized attempt to reset your Microsoft account password from a new device located in:
+> 
+> Location: Singapore
+> 
+> IP Address: 103.198.44.67
+> 
+> For your protection, we have temporarily disabled account access until you verify your identity.
+> 
+> 👉 Confirm Your Identity
+> 
+> https://microsoft.account-verfiy-center.com/security-check
+> 
+> If this action was not performed by you, please download the attached report (SecurityLog_Report.rar) and follow the instructions to secure your account.
+> 
+> Failure to verify within 24 hours will result in permanent account restriction.
+> 
+> Thank you,
+> 
+> Microsoft Security Team
+>
